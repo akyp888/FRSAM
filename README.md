@@ -3,4 +3,4 @@
 ===============================================================================
 This is a final year engineering project under progress.
 
-will update reademe once completed.
+will update readme once completed.
